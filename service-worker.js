@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.61ae9c2004d94c674dc424ea09e49a30.js"
+  "/FallDetectionPWALive/precache-manifest.b8e8da6264f73e0a0dbd9ee42a141358.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "falldetection"});
